@@ -1,10 +1,6 @@
 # Simplebank
-This in script for basic bank system, Initial proposal is learning the lang!
 
-# Commands
-```
-<in development>
-``` 
+**TODO: Add description**
 
 ## Installation
 
